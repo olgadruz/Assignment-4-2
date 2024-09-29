@@ -1,0 +1,14 @@
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/bin/Debug/net8.0/HomeSales
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/bin/Debug/net8.0/HomeSales.deps.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/bin/Debug/net8.0/HomeSales.runtimeconfig.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/bin/Debug/net8.0/HomeSales.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/bin/Debug/net8.0/HomeSales.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/HomeSales.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/HomeSales.AssemblyInfoInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/HomeSales.AssemblyInfo.cs
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/HomeSales.csproj.CoreCompileInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/HomeSales.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/refint/HomeSales.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/HomeSales.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/HomeSales.genruntimeconfig.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/ref/HomeSales.dll
