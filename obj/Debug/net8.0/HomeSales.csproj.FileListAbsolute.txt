@@ -12,3 +12,4 @@
 /Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/HomeSales.pdb
 /Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/HomeSales.genruntimeconfig.cache
 /Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/ref/HomeSales.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/HomeSales/obj/Debug/net8.0/HomeSales.sourcelink.json

@@ -10,13 +10,11 @@ class Program
     {
         int max = 0;
         int sumsale = 0;
-        string salesperson = "";
-        int sale = 0;
         string maxsalesperson = "";
         for (; ; )
         {
             Console.Write("salesperson: ");
-            salesperson = Console.ReadLine();
+            string salesperson = Console.ReadLine();
             if (salesperson == "z" || salesperson == "Z")
             {
                 break;
@@ -27,7 +25,7 @@ class Program
                 continue;
             }
             Console.Write("sale: ");
-            sale = Convert.ToInt32(Console.ReadLine());
+            int sale = Convert.ToInt32(Console.ReadLine());
             sumsale = sumsale + sale;
             if (sale > max)
             {
